@@ -1,0 +1,37 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "compression": "^1.7.4",
+    "config": "^3.3.9",
+    "express": "^4.18.2",
+    "express-async-errors": "^3.1.1",
+    "fawn": "^2.1.5",
+    "helmet": "^7.0.0",
+    "heroku": "^8.1.7",
+    "heroku-cli": "^7.0.9",
+    "joi": "^13.1.0",
+    "joi-objectid": "^4.0.2",
+    "jsonwebtoken": "^9.0.0",
+    "lodash": "^4.17.21",
+    "mongodb": "^5.2.0",
+    "mongoose": "^7.2.0",
+    "node": "^19.8.1",
+    "nodemon": "^2.0.22",
+    "winston": "^2.4.0",
+    "winston-mongodb": "^5.1.1"
+  },
+  "name": "vidly",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "19.7.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
